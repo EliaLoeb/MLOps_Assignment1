@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment (ZEER BELANGRIJK)
+venv/
+
+# Data en resultaten
+data/
+experiments/results/
+
+# Model weights
+*.pt
+*.ckpt
+*.h5
+
+# Secrets
+.env
